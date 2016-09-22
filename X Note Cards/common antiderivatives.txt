@@ -1,0 +1,30 @@
+f(x) -> F(x)
+
+x^n, n != (-1)
+x^(n + 1)/(n + 1) + c
+
+1/x
+ln|x| + c
+
+e^x
+e^x + c
+
+cos(x)
+sin(x) + c
+
+sin(x)
+-cos(x) + c
+
+sec^2(x)
+tan(x) + c
+
+csc(x)cot(x)
+-csc(x) + c
+
+sec(x)tan(x)
+sec(x) + c
+
+csc^2(x)
+-cot(x) + c
+
+stop

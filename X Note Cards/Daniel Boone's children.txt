@@ -1,0 +1,93 @@
+something
+
+who was his first child?
+James
+
+when were they born?
+May 3, 1757
+
+when did they die?
+blah
+
+who was his second child?
+Israel
+
+when were they born?
+January 25, 1759
+
+when did they die?
+blah
+
+who was his third child?
+Susannah
+
+when were they born?
+November 20, 1760
+
+when did they die?
+blah
+
+who was his fourth child?
+Jemima
+
+when were they born?
+October 4, 1762
+
+when did they die?
+blah
+
+who was his fifth child?
+Levina
+
+when were they born?
+March 23, 1766
+
+when did they die?
+blah
+
+who was his sixth child?
+Rebecca
+
+when were they born?
+May 26, 1768
+
+when did they die?
+blah
+
+who was his seventh child?
+Daniel Morgan
+
+when were they born?
+December 23, 1769
+
+when did they die?
+blah
+
+who was his eigth child?
+Jesse
+
+when were they born?
+May 23, 1773
+
+when did they die?
+blah
+
+who was his nineth child?
+William
+
+when were they born?
+June 20, 1775
+
+when did they die?
+Soon afterwards
+
+who was his tenth child?
+Nathan
+
+when were they born?
+March 3, 1781
+
+when did they die?
+blah
+
+stop

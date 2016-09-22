@@ -1,0 +1,21 @@
+remember to add "stop" to the end of each file.
+
+sin
+cos
+
+cos
+-sin
+
+tan
+sec^2
+
+csc
+-csc*cot
+
+sec
+sec*tan
+
+cot
+-csc^2
+
+stop
