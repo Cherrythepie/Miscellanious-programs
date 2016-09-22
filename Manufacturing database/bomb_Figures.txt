@@ -1,0 +1,8 @@
+
+The Cost to manufacture 1 runs of 1 bomb is: 5514.720000
+
+The Value of 1.000000 bomb is: 1000.000000 isk.
+
+The net value of Manufacturing this... is: -4544.720000 isk.
+For 1 runs of 1.000000 bomb per run, you will need: 
+tritanium: 898.000000 * 6.140000 = 5513.720000 isk.

@@ -1,0 +1,18 @@
+Caldari Navy Antimatter Charge L
+4
+Tritanium
+1000
+Isogen
+200
+Mexallon
+5000
+Megacyte
+10000
+66000.000000
+0.000000
+5.000000
+5.000000
+5.000000
+5
+10.000000
+100.000000

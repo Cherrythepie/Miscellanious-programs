@@ -1,0 +1,14 @@
+Falcon
+3
+Tritanium
+10
+Isogen
+10
+Megacyte
+10
+175
+175
+800
+800
+800
+0

@@ -1,0 +1,40 @@
+Standup Reprocessing Facility I
+15
+Tritanium
+250000
+Pyerite
+50000
+Mexallon
+17500
+Isogen
+2000
+Nocxium
+375
+Zydrine
+175
+Megacyte
+75
+Broadcast Node
+1
+Integrity Response Drones
+1
+Nano-Factory
+1
+Organic Mortar Applicators
+2
+Recursive Computing Module
+1
+Self-Harmonizing Power Core
+2
+Sterile Conduits
+1
+Wetware Mainframe
+2
+46000000.000000
+46000000.000000
+1.000000
+1.000000
+1.000000
+5
+4.000000
+1.000000

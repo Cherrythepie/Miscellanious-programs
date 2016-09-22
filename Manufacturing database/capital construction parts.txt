@@ -1,0 +1,23 @@
+Capital Construction Parts
+7
+Tritanium
+388208
+Pyerite
+93777
+Mexallon
+37729
+Isogen
+5104
+Nocxium
+1530
+Zydrine
+538
+Megacyte
+212
+7900000.140000
+1.000000
+1.000000
+1.000000
+1.000000
+0
+10

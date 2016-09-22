@@ -1,0 +1,24 @@
+Electron Bomb
+7
+Tritanium
+1502299
+Pyerite
+693216
+Mexallon
+6612
+Isogen
+10412
+Nocxium
+2622
+Zydrine
+3132
+Megacyte
+788
+1351000.000000
+1.000000
+1.000000
+1.000000
+1.000000
+5
+0.000000
+20.000000
